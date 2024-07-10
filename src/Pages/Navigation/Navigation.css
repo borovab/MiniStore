@@ -1,0 +1,19 @@
+#menu-navigation {
+    background-color: black;
+    padding: 20px;
+}
+
+#menu-navigation ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    align-content:center;
+    gap: 15px;
+}
+
+#menu-navigation ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+

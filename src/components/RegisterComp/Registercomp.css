@@ -1,0 +1,9 @@
+#register{
+    display: flex;
+    flex-direction: column;
+    width : min-content;
+    
+}
+#register button {
+    background-color: tomato;
+}

@@ -1,0 +1,261 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "emriProduktit": "Men's Leather Jacket",
+      "cmimi": 980,
+      "Kategoria": "men",
+      "reviews": 4,
+      "description": "Description of Men's Leather Jacket",
+      "image": "https://static.pullandbear.net/assets/public/b345/1854/a7f347ae9c35/e305d7d359ed/0724957451902-A7M/0724957451902-A7M.jpg?ts=1720523396688&w=1125"
+    },
+    {
+      "id": "2",
+      "emriProduktit": "Men's Designer Watch",
+      "cmimi": 1050,
+      "Kategoria": "men",
+      "reviews": 3,
+      "description": "Description of Men's Designer Watch",
+      "image": "https://static.pullandbear.net/assets/public/1b5b/362a/dcb54ab788e6/d52ac9c33a1e/07249574519-A1M/07249574519-A1M.jpg?ts=1720443636723&w=1125"
+    },
+    {
+      "id": "3",
+      "emriProduktit": "Men's Luxury Suit",
+      "cmimi": 1120,
+      "Kategoria": "men",
+      "reviews": 5,
+      "description": "Description of Men's Luxury Suit",
+      "image": "https://static.pullandbear.net/assets/public/1b5b/362a/dcb54ab788e6/d52ac9c33a1e/07249574519-A1M/07249574519-A1M.jpg?ts=1720443636723&w=1125"
+    },
+    {
+      "id": "4",
+      "emriProduktit": "Men's Leather Shoes",
+      "cmimi": 990,
+      "Kategoria": "men",
+      "reviews": 2,
+      "description": "Description of Men's Leather Shoes",
+      "image": "https://static.pullandbear.net/assets/public/1b5b/362a/dcb54ab788e6/d52ac9c33a1e/07249574519-A1M/07249574519-A1M.jpg?ts=1720443636723&w=1125"
+    },
+    {
+      "id": "5",
+      "emriProduktit": "Men's Cashmere Sweater",
+      "cmimi": 1180,
+      "Kategoria": "men",
+      "reviews": 4,
+      "description": "Description of Men's Cashmere Sweater",
+      "image": "https://static.pullandbear.net/assets/public/6098/1930/7be3400abb3f/7401506217f6/0747051925004-A1M/0747051925004-A1M.jpg?ts=1720453117828&w=1024"
+    },
+    {
+      "id": "6",
+      "emriProduktit": "Men's Tailored Trousers",
+      "cmimi": 1030,
+      "Kategoria": "men",
+      "reviews": 3,
+      "description": "Description of Men's Tailored Trousers",
+      "image": "https://static.pullandbear.net/assets/public/6098/1930/7be3400abb3f/7401506217f6/0747051925004-A1M/0747051925004-A1M.jpg?ts=1720453117828&w=1024"
+    },
+    {
+      "id": "7",
+      "emriProduktit": "Women's Silk Dress",
+      "cmimi": 980,
+      "Kategoria": "women",
+      "reviews": 5,
+      "description": "Description of Women's Silk Dress",
+      "image": "https://static.pullandbear.net/assets/public/8c4a/4693/2825429c9eb4/8b76d17b8269/07390373305-E/07390373305-E.jpg?ts=1720079265257&w=1024"
+    },
+    {
+      "id": "8",
+      "emriProduktit": "Women's Diamond Necklace",
+      "cmimi": 1070,
+      "Kategoria": "women",
+      "reviews": 4,
+      "description": "Description of Women's Diamond Necklace",
+      "image": "https://static.pullandbear.net/assets/public/8c4a/4693/2825429c9eb4/8b76d17b8269/07390373305-E/07390373305-E.jpg?ts=1720079265257&w=1024"
+    },
+    {
+      "id": "9",
+      "emriProduktit": "Women's Leather Boots",
+      "cmimi": 1150,
+      "Kategoria": "women",
+      "reviews": 3,
+      "description": "Description of Women's Leather Boots",
+      "image": "https://static.pullandbear.net/assets/public/8c4a/4693/2825429c9eb4/8b76d17b8269/07390373305-E/07390373305-E.jpg?ts=1720079265257&w=1024"
+    },
+    {
+      "id": "10",
+      "emriProduktit": "Women's Designer Handbag",
+      "cmimi": 990,
+      "Kategoria": "women",
+      "reviews": 5,
+      "description": "Description of Women's Designer Handbag",
+      "image": "https://static.pullandbear.net/assets/public/8c4a/4693/2825429c9eb4/8b76d17b8269/07390373305-E/07390373305-E.jpg?ts=1720079265257&w=1024"
+    },
+    {
+      "id": "11",
+      "emriProduktit": "Women's Luxury Watch",
+      "cmimi": 1080,
+      "Kategoria": "women",
+      "reviews": 4,
+      "description": "Description of Women's Luxury Watch",
+      "image": "https://static.pullandbear.net/assets/public/8c4a/4693/2825429c9eb4/8b76d17b8269/07390373305-E/07390373305-E.jpg?ts=1720079265257&w=1024"
+    },
+    {
+      "id": "12",
+      "emriProduktit": "Women's Cashmere Scarf",
+      "cmimi": 1020,
+      "Kategoria": "women",
+      "reviews": 3,
+      "description": "Description of Women's Cashmere Scarf",
+      "image": "https://static.pullandbear.net/assets/public/8c4a/4693/2825429c9eb4/8b76d17b8269/07390373305-E/07390373305-E.jpg?ts=1720079265257&w=1024"
+    },
+    {
+      "id": "13",
+      "emriProduktit": "Kids' Electric Toy Car",
+      "cmimi": 1050,
+      "Kategoria": "kids",
+      "reviews": 3,
+      "description": "Description of Kids' Electric Toy Car",
+      "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F1b%2Fd0%2F1bd02806b015444856236b7ccae5d97d68fdf3e9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"
+    },
+    {
+      "id": "14",
+      "emriProduktit": "Kids' Educational Tablet",
+      "cmimi": 1120,
+      "Kategoria": "kids",
+      "reviews": 4,
+      "description": "Description of Kids' Educational Tablet",
+      "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F1b%2Fd0%2F1bd02806b015444856236b7ccae5d97d68fdf3e9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"
+    },
+    {
+      "id": "15",
+      "emriProduktit": "Kids' Outdoor Playset",
+      "cmimi": 1180,
+      "Kategoria": "kids",
+      "reviews": 2,
+      "description": "Description of Kids' Outdoor Playset",
+      "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F1b%2Fd0%2F1bd02806b015444856236b7ccae5d97d68fdf3e9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"
+    },
+    {
+      "id": "16",
+      "emriProduktit": "Kids' Bicycle",
+      "cmimi": 990,
+      "Kategoria": "kids",
+      "reviews": 5,
+      "description": "Description of Kids' Bicycle",
+      "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F1b%2Fd0%2F1bd02806b015444856236b7ccae5d97d68fdf3e9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"
+    },
+    {
+      "id": "17",
+      "emriProduktit": "Kids' Building Blocks Set",
+      "cmimi": 1030,
+      "Kategoria": "kids",
+      "reviews": 4,
+      "description": "Description of Kids' Building Blocks Set",
+      "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F1b%2Fd0%2F1bd02806b015444856236b7ccae5d97d68fdf3e9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"
+    },
+    {
+      "id": "18",
+      "emriProduktit": "Kids' Plush Animal Toy",
+      "cmimi": 1150,
+      "Kategoria": "kids",
+      "reviews": 3,
+      "description": "Description of Kids' Plush Animal Toy",
+      "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F1b%2Fd0%2F1bd02806b015444856236b7ccae5d97d68fdf3e9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"
+    },
+    {
+      "id": "19",
+      "emriProduktit": "Girls' Princess Dress",
+      "cmimi": 980,
+      "Kategoria": "women",
+      "reviews": 4,
+      "description": "Description of Girls' Princess Dress",
+      "image": "https://static.pullandbear.net/assets/public/8c4a/4693/2825429c9eb4/8b76d17b8269/07390373305-E/07390373305-E.jpg?ts=1720079265257&w=1024"
+    },
+    {
+      "id": "20",
+      "emriProduktit": "Girls' Ballet Flats",
+      "cmimi": 1050,
+      "Kategoria": "women",
+      "reviews": 5,
+      "description": "Description of Girls' Ballet Flats",
+      "image": "https://static.pullandbear.net/assets/public/8c4a/4693/2825429c9eb4/8b76d17b8269/07390373305-E/07390373305-E.jpg?ts=1720079265257&w=1024"
+    },
+    {
+      "id": "21",
+      "emriProduktit": "Girls' Unicorn Backpack",
+      "cmimi": 1120,
+      "Kategoria": "women",
+      "reviews": 3,
+      "description": "Description of Girls' Unicorn Backpack",
+      "image": "https://static.pullandbear.net/assets/public/8c4a/4693/2825429c9eb4/8b76d17b8269/07390373305-E/07390373305-E.jpg?ts=1720079265257&w=1024"
+    },
+    {
+      "id": "22",
+      "emriProduktit": "Girls' Pearl Bracelet",
+      "cmimi": 990,
+      "Kategoria": "women",
+      "reviews": 4,
+      "description": "Description of Girls' Pearl Bracelet",
+      "image": "https://static.pullandbear.net/assets/public/8c4a/4693/2825429c9eb4/8b76d17b8269/07390373305-E/07390373305-E.jpg?ts=1720079265257&w=1024"
+    },
+    {
+      "id": "23",
+      "emriProduktit": "Boys' Superhero T-Shirt",
+      "cmimi": 980,
+      "Kategoria": "women",
+      "reviews": 5,
+      "description": "Description of Boys' Superhero T-Shirt",
+      "image": "https://static.pullandbear.net/assets/public/8c4a/4693/2825429c9eb4/8b76d17b8269/07390373305-E/07390373305-E.jpg?ts=1720079265257&w=1024"
+    },
+    {
+      "id": "24",
+      "emriProduktit": "Boys' Cargo Shorts",
+      "cmimi": 1070,
+      "Kategoria": "women",
+      "reviews": 4,
+      "description": "Description of Boys' Cargo Shorts",
+      "image": "https://static.pullandbear.net/assets/public/1b5b/362a/dcb54ab788e6/d52ac9c33a1e/07249574519-A1M/07249574519-A1M.jpg?ts=1720443636723&w=1125"
+    },
+    {
+      "id": "25",
+      "emriProduktit": "Boys' Soccer Cleats",
+      "cmimi": 1150,
+      "Kategoria": "men",
+      "reviews": 3,
+      "description": "Description of Boys' Soccer Cleats",
+      "image": "https://static.pullandbear.net/assets/public/1b5b/362a/dcb54ab788e6/d52ac9c33a1e/07249574519-A1M/07249574519-A1M.jpg?ts=1720443636723&w=1125"
+    },
+    {
+      "id": "26",
+      "emriProduktit": "Boys' Remote Control Car",
+      "cmimi": 1020,
+      "Kategoria": "men",
+      "reviews": 4,
+      "description": "Description of Boys' Remote Control Car",
+      "image": "https://static.pullandbear.net/assets/public/1b5b/362a/dcb54ab788e6/d52ac9c33a1e/07249574519-A1M/07249574519-A1M.jpg?ts=1720443636723&w=1125"
+    }
+  ],
+  "users": [
+    {
+      "id": "57d7",
+      "email": "admin",
+      "password": "admin"
+    },
+    {
+      "id": "48d0",
+      "email": "vanesamullabazi@gmail.com",
+      "password": "123123"
+    },
+    {
+      "id": "579e",
+      "email": "beqir",
+      "password": "beqir"
+    },
+    {
+      "id": "890a",
+      "email": "xhafer",
+      "password": "xhafer"
+    }
+  ],
+  "cart": []
+}
